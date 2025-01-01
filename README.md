@@ -1,2 +1,1 @@
-# Cybersecurity Capstone: Breach Response Case Studies
-PoS Attack-Marriott Data Breach 2018
+In this project, I selected a company that has experienced a data breach (PoS Attack-Marriott Data Breach 2018) and analyze the details of that breach. I examined the type of attack, the attack timeline, the vulnerable systems, and any missed opportunities. Using this information, I created a comprehensive report about the breach following a provided template.
